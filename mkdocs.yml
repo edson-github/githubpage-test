@@ -1,5 +1,5 @@
-site_name: 'Test site'
+site_name: Test site
 theme:
-  name: 'material'
-repo_url: 'https://github.com/edson-github/githubpage-test'
+  name: material
+repo_url: https://github.com/edson-github/githubpage-test
 
